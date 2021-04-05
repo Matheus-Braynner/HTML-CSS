@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #d2d2c1 url(fundo.png);
+}
+
+#principal {
+   width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+#conteudo {
+    background: #e3e3e8;
+    padding: 10px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
+}
+h1 {
+    color: #828271;
+    font-size: 1.8em;
+}
